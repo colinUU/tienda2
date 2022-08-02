@@ -1,4 +1,4 @@
-package com.tirndita.servicio.categorias;
+package com.tiendita.servicio.categorias;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
